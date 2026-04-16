@@ -1,11 +1,4 @@
 {
-  "name": "smartthings",
-  "version": "0.1.0",
-  "description": "Skill do obsługi urządzeń Samsung SmartThings (piekarnik, mikrofala, pralka, suszarka) przez lokalny CLI.",
-  "entrypoint": "SKILL.md",
-  "scripts_dir": "scripts",
-  "main_script": "scripts/smartthings.py"
-{
   "name": "SmartThings",
   "description": "Skill for controlling Samsung SmartThings appliances (washers, dryers, ovens, microwaves, cooktops)",
   "entrypoint": "scripts/smartthings.py"
